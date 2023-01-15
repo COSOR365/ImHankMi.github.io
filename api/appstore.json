@@ -1,369 +1,319 @@
-{"Total":"146",
-"公告":"诚邀您参加《抬腕5.0新版本开发方向》用户调研，在手机/电脑上打开此网址即可进入填写：https://t.hk.uy/buNB",
+{"Total":"148",
+"公告":"【23/01/16】应用详情页支持文件大小显示
+
+【23/01/12】诚邀您参加《抬腕5.0新版本开发方向》用户调研，在手机/电脑上打开此网址即可进入填写：https://t.hk.uy/buNB",
 "列表公告":"请刷新列表",
 "版本号":"10",
 
 "api":"https://lanzou.humorously.tk/api/api.php?link=%a&&red=1",
 
 "n0":"抬腕应用商店",
-"i0":"开发者：HankMi
-HankMi应用官方分发平台
-
+"i0":"HankMi应用官方分发平台
+开发者：HankMi
 大小：1.1MB",
 "a0":"https://hankmi.lanzouw.com/ircMe0kv168h",
 
 "n1":"抬腕视频",
-"i1":"开发者：HankMi
-在手表上播放你的本地视频，支持mp4等主流媒体格式，完全免费。
-
+"i1":"在手表上播放你的本地视频，支持mp4等主流媒体格式，完全免费。
+开发者：HankMi
 大小：16.6MB",
 "a1":"https://hankmi.lanzouw.com/iJqjq0kitj8f",
 
 "n2":"抬腕文件",
-"i2":"开发者：HankMi
-轻松管理你的手表文件，打开、重命名、移动和删除。
-
+"i2":"轻松管理你的手表文件，打开、重命名、移动和删除。
+开发者：HankMi
 大小：532KB",
 "a2":"https://hankmi.lanzouw.com/i4GcN0cq1jaj",
 
 "n3":"瓯默笔记",
-"i3":"开发者：HankMi
-腕上记事本登场，上课重点随时记，更有回收站功能防止误删除。
-
+"i3":"腕上记事本登场，上课重点随时记，更有回收站功能防止误删除。
+开发者：HankMi
 大小：485KB",
 "a3":"https://hankmi.lanzouw.com/ij5kG0f3ma2d",
 
 "n4":"微信儿童版（1.6.1）",
-"i4":"开发者：Wechat
-1.6.1新版本，支持通讯录和发送经典黄脸表情。此版本可接入OPPO手表微信云通知推送服务。
-
+"i4":"1.6.1新版本，支持通讯录和发送经典黄脸表情。此版本可接入OPPO手表微信云通知推送服务。
+开发者：Wechat
 大小：31.6MB",
 "a4":"https://hankmi.lanzouw.com/ibHLH062s99a",
 
 "n5":"Square Home",
 "i5":"第三方桌面，OW2可用此桌面进入原生安卓设置。
-
 大小：4.2MB",
 "a5":"https://hankmi.lanzouw.com/i7x5v0462fzi",
 
 "n6":"QQ（2.1.3）",
-"i6":"开发者：腾讯科技（深圳）有限公司
-提取自魅族手表的2.1.3全功能版手表QQ。支持聊天、表情包、动态、运动、群公告等功能，内置输入法可打字输入。
-
+"i6":"提取自魅族手表的2.1.3全功能版手表QQ。支持聊天、表情包、动态、运动、群公告等功能，内置输入法可打字输入。
+开发者：腾讯科技（深圳）有限公司
 大小：14.7MB",
 "a6":"https://hankmi.lanzouw.com/iAxcG074fchg",
 
 "n7":"抬腕文件传输工具",
-"i7":"开发者：进阶的面条
-与手机、电脑等设备传输文件，可独立安装使用。
-
+"i7":"与手机、电脑等设备传输文件，可独立安装使用。
+开发者：进阶的面条
 大小：4MB",
 "a7":"https://hankmi.lanzouw.com/iNu2W04dxn1a",
 
 "n8":"百度地图",
-"i8":"开发者：百度在线网络技术（北京）有限公司
-在手表上开启步行和骑行导航，手表会在路口时提醒你转向。
-
+"i8":"在手表上开启步行和骑行导航，手表会在路口时提醒你转向。
+开发者：百度在线网络技术（北京）有限公司
 大小：44.9MB",
 "a8":"https://hankmi.lanzouw.com/iRMnR0is9u1c",
 
 "n9":"凤凰新闻",
-"i9":"开发者：凤凰网
-浏览最近的新闻，可到手机端查看更多。
-
+"i9":"浏览最近的新闻，可到手机端查看更多。
+开发者：凤凰网
 大小：2.6MB",
 "a9":"https://hankmi.lanzouw.com/iCfGh0is9u2d",
 
 "n10":"谷歌翻译",
-"i10":"开发者：Google
-目前国内地区可能无法访问。
-
+"i10":"目前国内地区可能无法访问。
+开发者：Google
 大小：5.6MB",
 "a10":"https://hankmi.lanzouw.com/ibPsb0is9u4f",
 
 "n11":"计算器（OPPO版）",
-"i11":"开发者：欢太科技
-进行基础运算。
-
+"i11":"进行基础运算。
+开发者：欢太科技
 大小：1.1MB",
 "a11":"https://hankmi.lanzouw.com/ifU550is9u5g",
 
 "n12":"酷我音乐",
-"i12":"开发者：北京酷我科技有限公司
-海量正版音乐、小说、相声任你畅听
-
+"i12":"海量正版音乐、小说、相声任你畅听
+开发者：北京酷我科技有限公司
 大小：9.8MB",
 "a12":"https://hankmi.lanzouw.com/ino9q0is9u6h",
 
 "n13":"快递100",
-"i13":"开发者：深圳市金蝶友商电子商务服务有限公司
-手机扫码登录后，就能在手表上查看快递状态。
-
+"i13":"手机扫码登录后，就能在手表上查看快递状态。
+开发者：深圳市金蝶友商电子商务服务有限公司
 大小：1.3MB",
 "a13":"https://hankmi.lanzouw.com/iLufH0is9u8j",
 
 "n14":"抬腕笔记",
-"i14":"开发者：HankMi
-支持更换字体、颜色、大小，查找替换、二次修改等功能。还可以直接打开PDF。
-
+"i14":"支持更换字体、颜色、大小，查找替换、二次修改等功能。还可以直接打开PDF。
+开发者：HankMi
 大小：2.0MB",
 "a14":"https://hankmi.lanzouw.com/iNfmo0is9u9a",
 
 "n15":"抬腕看图",
-"i15":"开发者：HankMi
-轻抬腕，览群图
-
+"i15":"轻抬腕，览群图
+开发者：HankMi
 大小：576KB",
 "a15":"https://hankmi.lanzouw.com/iDP9C0is9ubc",
 
 "n16":"抬腕浏览器",
-"i16":"开发者：HankMi
-访问互联网
-
+"i16":"访问互联网
+开发者：HankMi
 大小：161KB",
 "a16":"https://hankmi.lanzouw.com/iqhvB0is9ucd",
 
 "n17":"抬腕日历",
-"i17":"开发者：HankMi
-精美而简单纯粹的手表日历
-
+"i17":"精美而简单纯粹的手表日历
+开发者：HankMi
 大小：104KB",
 "a17":"https://hankmi.lanzouw.com/i92A80is9ude",
 
 "n18":"腕上简搜",
-"i18":"开发者：HankMi
-一键中英互译，百度搜索去广告
-
+"i18":"一键中英互译，百度搜索去广告
+开发者：HankMi
 大小：375KB",
 "a18":"https://hankmi.lanzouw.com/ixSIa0is9uef",
 
 "n19":"腕上鼠标",
 "i19":"仅支持WearOS系统，将手表当做触控板使用
-
 大小：2.6MB",
 "a19":"https://hankmi.lanzouw.com/iDWoe0is9ufg",
 
 "n20":"网易云音乐（OPPO版）",
-"i20":"开发者：杭州网易云音乐科技有限公司
-用音乐传递美好力量
-
+"i20":"用音乐传递美好力量
+开发者：杭州网易云音乐科技有限公司
 大小：13.1MB",
 "a20":"https://hankmi.lanzouw.com/i6ffH0is9uij",
 
 "n21":"网易云音乐（Tic版）",
-"i21":"开发者：杭州网易云音乐科技有限公司
-用音乐传递美好力量
-
+"i21":"用音乐传递美好力量
+开发者：杭州网易云音乐科技有限公司
 大小：3.3MB",
 "a21":"https://hankmi.lanzouw.com/i0GO70is9uja",
 
 "n22":"喜马拉雅",
-"i22":"开发者：上海喜马拉雅科技有限公司
-听海量精品小说 来喜马拉雅
-
+"i22":"听海量精品小说 来喜马拉雅
+开发者：上海喜马拉雅科技有限公司
 大小：5.8MB",
 "a22":"https://hankmi.lanzouw.com/ikonM0is9ukb",
 
 "n23":"小抬腕API",
-"i23":"开发者：心想事成
-将腕上哔哩3.5的视频中转到小电视播放器或抬腕视频APP播放
-
+"i23":"将腕上哔哩3.5的视频中转到小电视播放器或抬腕视频APP播放
+开发者：心想事成
 大小：3.8MB",
 "a23":"https://hankmi.lanzouw.com/itlEK0is9ulc",
 
 "n24":"小天才地图",
 "i24":"热心网友提供
-
 大小：13.6MB",
 "a24":"https://hankmi.lanzouw.com/iTd1f0is9umd",
 
 "n25":"讯飞输入法（米表版）",
-"i25":"开发者：科大讯飞股份有限公司
-提取自小米手表的讯飞输入法
-
+"i25":"提取自小米手表的讯飞输入法
+开发者：科大讯飞股份有限公司
 大小：12MB",
 "a25":"https://hankmi.lanzouw.com/itJcG0is9uqh",
 
 "n26":"QQ（2.1.7）",
-"i26":"开发者：腾讯科技（深圳）有限公司
-腾讯QQ手表版，功能偏少，可调用系统自带输入法。
-
+"i26":"腾讯QQ手表版，功能偏少，可调用系统自带输入法。
+开发者：腾讯科技（深圳）有限公司
 大小：14.8MB",
 "a26":"https://hankmi.lanzouw.com/iB2fU0is9uub",
 
 "n27":"T启动",
-"i27":"开发者：Logic昊
-适用于小米手表，仿AppleWatch蜂窝视图启动器
-
+"i27":"适用于小米手表，仿AppleWatch蜂窝视图启动器
+开发者：Logic昊
 大小：3.2MB",
 "a27":"https://hankmi.lanzouw.com/i9OmI0is9uxe",
 
 "n28":"迪拜塔",
 "i28":"小游戏，点击屏幕放置方块，你能堆多高？
-
 大小：10.1MB",
 "a28":"https://hankmi.lanzouw.com/i2cb00iskopg",
 
 "n29":"僵尸杀手",
 "i29":"不适配小米手表，枪战小游戏
-
 大小：990KB",
 "a29":"https://hankmi.lanzouw.com/i0VSW0iskori",
 
 "n30":"墨迹天气",
-"i30":"开发者：北京墨迹风云科技股份有限公司
-用真心为您的生活保驾护航！
-
+"i30":"用真心为您的生活保驾护航！
+开发者：北京墨迹风云科技股份有限公司
 大小：3.8MB",
 "a30":"https://hankmi.lanzouw.com/iYUx80iskoub",
 
 "n31":"腾讯翻译君",
-"i31":"开发者：深圳市腾讯计算机系统有限公司
-多种热门语言翻译，支持语音翻译、同声传译、文本翻译、实景AR翻译、口语评测等功能。
-
+"i31":"多种热门语言翻译，支持语音翻译、同声传译、文本翻译、实景AR翻译、口语评测等功能。
+开发者：深圳市腾讯计算机系统有限公司
 大小：2.4MB",
 "a31":"https://hankmi.lanzouw.com/iYKxh0iskowd",
 
 "n32":"扇贝单词",
-"i32":"开发者：南京贝湾信息科技有限公司
-超1000万四六级、考研人在用的背单词APP
-
+"i32":"超1000万四六级、考研人在用的背单词APP
+开发者：南京贝湾信息科技有限公司
 大小：1.1MB",
 "a32":"https://hankmi.lanzouw.com/iu7A20iskoyf",
 
 "n33":"太空侵略者",
 "i33":"不适配小米手表，本应用由网友上传
-
 大小：3.9MB",
 "a33":"https://hankmi.lanzouw.com/iFLhA0iskp1i",
 
 "n34":"腾讯翻译君（华米版）",
-"i34":"开发者：深圳市腾讯计算机系统有限公司
-提取自华米手表的腾讯翻译君，支持更多语言翻译
-
+"i34":"提取自华米手表的腾讯翻译君，支持更多语言翻译
+开发者：深圳市腾讯计算机系统有限公司
 大小：10.2MB",
 "a34":"https://hankmi.lanzouw.com/iWEtd0iskp8f",
 
 "n35":"有道词典",
-"i35":"开发者：网易有道信息技术（北京）有限公司
-完整收录多部权威词典，词库大而全，查词快又准
-
+"i35":"完整收录多部权威词典，词库大而全，查词快又准
+开发者：网易有道信息技术（北京）有限公司
 大小：9.4MB",
 "a35":"https://hankmi.lanzouw.com/ix67l0iskpfc",
 
 "n36":"口袋故事",
-"i36":"开发者：上海童锐网络科技有限公司
-海量独家、原创儿童故事库供您挑选
-
+"i36":"海量独家、原创儿童故事库供您挑选
+开发者：上海童锐网络科技有限公司
 大小：5.2MB",
 "a36":"https://hankmi.lanzouw.com/iYElw0iskpif",
 
 "n37":"QQ音乐",
-"i37":"开发者：腾讯音乐娱乐（深圳）有限公司
-海量高品质正版曲库，金曲热曲，小众冷门一应俱全，从此我的世界不再缺歌。
-
+"i37":"海量高品质正版曲库，金曲热曲，小众冷门一应俱全，从此我的世界不再缺歌。
+开发者：腾讯音乐娱乐（深圳）有限公司
 大小：12.4MB",
 "a37":"https://hankmi.lanzouw.com/iaUpb0iskpna",
 
 "n38":"懒人听书",
-"i38":"开发者：深圳市懒人在线科技有限公司
-解放你的双眼，享受轻松听书乐趣。
-
+"i38":"解放你的双眼，享受轻松听书乐趣。
+开发者：深圳市懒人在线科技有限公司
 大小：3.8MB",
 "a38":"https://hankmi.lanzouw.com/ijaPL0iskpsf",
 
 "n39":"新浪新闻",
-"i39":"开发者：新浪网技术(中国)有限公司
-全网资讯、热点要闻、深度精选、精彩视频、高清图集，您想看的，新浪新闻智能引擎都推荐给你
-
+"i39":"全网资讯、热点要闻、深度精选、精彩视频、高清图集，您想看的，新浪新闻智能引擎都推荐给你
+开发者：新浪网技术(中国)有限公司
 大小：3.3MB",
 "a39":"https://hankmi.lanzouw.com/ivulr0iskpvi",
 
 "n40":"全民K歌",
-"i40":"开发者：腾讯音乐娱乐科技（深圳）有限公司
+"i40":"
 官方唱歌交友平台，八亿人的推荐
-
+开发者：腾讯音乐娱乐科技（深圳）有限公司
 大小：10.4MB",
 "a40":"https://hankmi.lanzouw.com/iwS4y0iskq4h",
 
 "n41":"地铁跑酷（手机版）",
 "i41":"在不同国家的地铁铁轨上奔跑，躲避警察的追捕。
-
 大小：36.9MB",
 "a41":"https://hankmi.lanzouw.com/iuYRS0iskqzi",
 
 "n42":"行者骑行",
-"i42":"开发者：上海大不自多信息科技有限公司
-专为户外运动爱好者打造的工具APP
-
+"i42":"专为户外运动爱好者打造的工具APP
+开发者：上海大不自多信息科技有限公司
 大小：3.2MB",
 "a42":"https://hankmi.lanzouw.com/ip8bX0iskr4d",
 
 "n43":"三星浏览器",
 "i43":"仅限WearOS设备使用，访问互联网
-
 大小：54.3MB",
 "a43":"https://hankmi.lanzouw.com/iASJM0iskrze",
 
 "n44":"AIDA64（手机版）",
 "i44":"检测手表各项配置及参数，无需更改DPI
-
 大小：3.8MB",
 "a44":"https://hankmi.lanzouw.com/iAXoH0kkf8kj",
 
 "n45":"MT管理器（手机版）",
 "i45":"简洁干净的文件管理器
-
 大小：18.1MB",
 "a45":"https://hankmi.lanzouw.com/iD8X10kkf8ed",
 
 "n46":"极客内存清理（手机版）",
 "i46":"好用的内存清理软件
-
 大小：3MB",
 "a46":"https://hankmi.lanzouw.com/iEDjz0kkf7ud",
 
 "n47":"时间大师",
 "i47":"不懂手表的某方块提取自小天才Z8少年版。支持番茄时钟，记录每个专注时间；支持TODO事项，随时查看代办日程；记录重要日子，提醒每个重要日期
-
 大小：3.6MB",
 "a47":"https://hankmi.lanzouw.com/iD0Jb0ist0wd",
 
 "n48":"抬腕听歌",
-"i48":"开发者：HankMi
-手表上好用的本地音乐播放器，支持歌词显示。
+"i48":"手表上好用的本地音乐播放器，支持歌词显示。
+开发者：HankMi
 大小：2MB",
 "a48":"https://hankmi.lanzouw.com/iZCsd0hxu8uj",
 
 "n49":"腕能宝盒",
-"i49":"开发者：Omnipotent
-功能丰富,体积小巧,有文件管理,新建便签,本地音乐,本地视频,本地图片,文本阅读,在线音乐,浏览器,表盘商店等功能,快来下载体验吧
-
+"i49":"功能丰富,体积小巧,有文件管理,新建便签,本地音乐,本地视频,本地图片,文本阅读,在线音乐,浏览器,表盘商店等功能,快来下载体验吧
+开发者：Omnipotent
 ⚠️安装包由 myqcloud.com 提供并更新",
 "a49":"https://handtoolsbox-1314665444.cos.ap-shanghai.myqcloud.com/%E8%85%95%E8%83%BD%E7%9B%92V2.0%E6%AD%A3%E5%BC%8F%E7%89%88.apk",
 
 "n50":"Wearbox",
 "i50":"暂无信息
-
 ⚠️安装包由 165.gs 提供并更新",
 "a50":"http://a.165.gs/1//WearBox2.6.apk",
 
 "n51":"腕管Pro",
-"i51":"开发者：台风眼
-腕管Pro是继腕上管家开发的第二代产品，将继承原腕上管家的大部分，并在继续优化，改造，删除不必要的功能，目前仍在持续更新中。支持应用ADB安装，文本、图片浏览，还支持视频播放！
-
+"i51":"腕管Pro是继腕上管家开发的第二代产品，将继承原腕上管家的大部分，并在继续优化，改造，删除不必要的功能，目前仍在持续更新中。支持应用ADB安装，文本、图片浏览，还支持视频播放！
+开发者：台风眼
 ⚠️安装包由 hitfy.cn 提供并更新",
 "a51":"https://cdn.hitfy.cn/this/app/open.cn.awg.pro/download/apk/2301150.apk",
 
 "n52":"全屏时钟",
 "i52":"简约时钟
-
 大小：8.5MB",
 "a52":"https://hankmi.lanzouw.com/iOk4G0kkf7pi",
 
 "n53":"破碎的像素地牢",
 "i53":"基于开源的像素地下城开发的游戏模组
-
 大小：7.5MB",
 "a53":"https://hankmi.lanzouw.com/ireQg0kkf7kd",
 
@@ -381,26 +331,22 @@ HankMi应用官方分发平台
 
 "n57":"云原神（手机版）",
 "i57":"在手表上玩原神
-
 ⚠️安装包由 165.gs 提供并更新",
 "a57":"http://a.165.gs/1//%E4%BA%91%C2%B7%E5%8E%9F%E7%A5%9E.apk",
 
 "n58":"支付宝 (WearOS版本)",
-"i58":"开发者：支付宝（中国）网络技术有限公司
-最新WearOS版本，支持乘车码、收能量
-
+"i58":"最新WearOS版本，支持乘车码、收能量
+开发者：支付宝（中国）网络技术有限公司
 大小：8.3MB",
 "a58":"https://hankmi.lanzouw.com/ixgzv0izq7da",
 
 "n59":"谁是卧底",
 "i59":"小天才提取的游戏
-
 ⚠️安装包由 165.gs 提供并更新",
 "a59":"http://a.165.gs/1//%E8%B0%81%E6%98%AF%E5%8D%A7%E5%BA%95_2.2.00.AW_Undercover_J51_G7a42bf1.apk",
 
 "n60":"只只竞赛",
 "i60":"益智儿童游戏，来源小天才提取
-
 ⚠️安装包由 165.gs 提供并更新",
 "a60":"http://a.165.gs/1//%E5%8F%AA%E5%8F%AA%E7%AB%9E%E8%B5%9B.apk",
 
@@ -411,215 +357,183 @@ HankMi应用官方分发平台
 
 "n62":"魔盒工具箱",
 "i62":"针对OPPO手表的多功能实用APP，欢迎大家前来体验!  软件特性  【工具箱】包含各种设备实用功能  【日常】多种快捷的服务功能  【小游戏】包含各种趣味游戏，来放松一下吧  【原生调用】支持OPPOwatch原生系统设置快捷调用与功能调试
-
 大小：6.1MB",
 "a62":"https://hankmi.lanzouw.com/igbCB0iy3syd",
 
 "n63":"腕上必应",
 "i63":"简易的浏览器，可查看每日必应壁纸，和搜索网页，可保存搜索历史。
-
 大小：2.8MB",
 "a63":"https://hankmi.lanzouw.com/ijGVN0iy3vif",
 
 "n64":"哔哩哔哩（手机版）",
-"i64":"开发者：上海宽娱数码科技有限公司
-旧版本的哔哩哔哩，手表上使用很流畅，可以直接登录账号哦
-
+"i64":"旧版本的哔哩哔哩，手表上使用很流畅，可以直接登录账号哦
+开发者：上海宽娱数码科技有限公司
 大小：41.7MB",
 "a64":"https://hankmi.lanzouw.com/iEABE0iy3zkb",
 
 "n65":"酷安（手机版）",
-"i65":"开发者：深圳酷安网络科技有限公司
-手表上也能刷酷安，旧版本，可登录，使用很流畅
-
+"i65":"手表上也能刷酷安，旧版本，可登录，使用很流畅
+开发者：深圳酷安网络科技有限公司
 ⚠️安装包由 wwbg 提供并更新",
 "a65":"https://wwbg.lanzouf.com/iJlgr0ixu0cj",
 
 "n66":"Via（手机版）",
-"i66":"开发者：上海知为网络科技有限公司
-简单纯粹的浏览器，手表上使用很流畅
-
+"i66":"简单纯粹的浏览器，手表上使用很流畅
+开发者：上海知为网络科技有限公司
 ⚠️安装包由 wwbg 提供并更新",
 "a66":"https://wwbg.lanzouf.com/iaO9U0ixu7rg",
 
 "n67":"QQ输入法（手机版）",
 "i67":"开发者：北京搜狗科技发展有限公司
 一款功能齐全的输入法，占用小，适合手表使用
-
 ⚠️安装包由 wwbg 提供并更新",
 "a67":"https://wwbg.lanzouf.com/ipMms0ixueyf",
 
 "n68":"清浊（手机版）",
 "i68":"一个简洁，优秀的清理工具，占用极小
-
 ⚠️安装包由 wwbg 提供并更新",
 "a68":"https://wwbg.lanzouf.com/iHZi50ixujof",
 
 "n69":"腕能小说",
 "i69":"安卓和wear OS通用,圆屏方屏通用,书源丰富,优化耗电  【小说搜索】:内置多个优质书源,全网小说,一键搜索  【离线阅读】:无限制下载,离线观看  【热门推荐】:分类热榜,无惧书荒  【自动翻页】:解放双手,无需操作  【历史记录】:阅读历史,云端同步  【书源切换】:内置书源,快捷切换  【偏好设置】:字体字号,随心所
-
 ⚠️安装包由 myqcloud.com 提供并更新",
 "a69":"https://handtoolsbox-1314665444.cos.ap-shanghai.myqcloud.com/%E8%85%95%E8%83%BD%E5%B0%8F%E8%AF%B4-V1.0.apk",
 
 "n70":"噪音检测",
-"i70":"开发者：皓洋
-仿AppleWatch的噪音检测APP。支持后台监测和音量过高提醒。
-
+"i70":"仿AppleWatch的噪音检测APP。支持后台监测和音量过高提醒。
+开发者：皓洋
 大小：9.3MB",
 "a70":"https://hankmi.lanzouw.com/i4fUw0iy8ade",
 
 "n71":"Next快传",
-"i71":"开发者：养只猫叫肥肥
-手表手机文件传输工具
-
+"i71":"手表手机文件传输工具
+开发者：养只猫叫肥肥
 大小：7.5MB",
 "a71":"https://hankmi.lanzouw.com/ijQ6K0iy8g8f",
 
 "n72":"QQ音乐 (Tic版)",
-"i72":"开发者：腾讯音乐娱乐（深圳）有限公司
-TicWatch上提取的QQ音乐，内置语音助手，圆形屏幕适配
-
+"i72":"TicWatch上提取的QQ音乐，内置语音助手，圆形屏幕适配
+开发者：腾讯音乐娱乐（深圳）有限公司
 大小：12.9MB",
 "a72":"https://hankmi.lanzouw.com/ifOTX0iy8gre",
 
 "n73":"九号出行",
-"i73":"开发者：Ninebot
-九号出行APP
-
+"i73":"九号出行APP
+开发者：Ninebot
 大小：25.4KB",
 "a73":"https://hankmi.lanzouw.com/iKa1u0iy8gsf",
 
 "n74":"牛轧糖游戏",
 "i74":"曾经安卓系统上的彩蛋游戏，快来挑战
-
 大小：2.6MB",
 "a74":"https://hankmi.lanzouw.com/iyhCX0iy8gzc",
 
 "n75":"PPT遥控器",
 "i75":"仅支持WearOS，用手表遥控PPT
-
 大小：5.2MB",
 "a75":"https://hankmi.lanzouw.com/iadpm0iy8hjc",
 
 "n76":"天猫精灵",
-"i76":"开发者：浙江猫精人工智能科技有限公司
-提取自小天才
-
+"i76":"提取自小天才
+开发者：浙江猫精人工智能科技有限公司
 大小：8.9MB",
 "a76":"https://hankmi.lanzouw.com/i69g90iy8hve",
 
 "n77":"搜狗输入法",
-"i77":"开发者：北京搜狗科技发展有限公司
-原小米手表默认输入法，可输入emoji
-
+"i77":"原小米手表默认输入法，可输入emoji
+开发者：北京搜狗科技发展有限公司
 大小：15.4MB",
 "a77":"https://hankmi.lanzouw.com/iiosx0izq7tg",
 
 "n78":"小问门禁",
-"i78":"开发者：出门问问
-用手表NFC刷门禁卡
-
+"i78":"用手表NFC刷门禁卡
+开发者：出门问问
 大小：1.5MB",
 "a78":"https://hankmi.lanzouw.com/iQL1t0iy8iuj",
 
 "n79":"小度",
-"i79":"开发者：百度(中国)有限公司
-小度助手手表版
-
+"i79":"小度助手手表版
+开发者：百度(中国)有限公司
 大小：7.7MB",
 "a79":"https://hankmi.lanzouw.com/iSvCq0iy8j8d",
 
 "n80":"腕上翻译",
 "i80":"可以打字使用的谷歌翻译
-
 大小：1.4MB",
 "a80":"https://hankmi.lanzouw.com/imPVi0iy8jaf",
 
 "n81":"腕上黑科技",
 "i81":"暂无信息
-
 大小：849KB",
 "a81":"https://hankmi.lanzouw.com/i9Xav0iy8jch",
 
 "n82":"咸鱼小译",
 "i82":"支持多种语言、多接口的翻译APP，支持打字输入。
-
 大小：2.2MB",
 "a82":"https://hankmi.lanzouw.com/iBUuQ0iy8jgb",
 
 "n83":"猎人野枪",
 "i83":"暂无信息
-
 大小：9.1MB",
 "a83":"https://hankmi.lanzouw.com/iCgqD0iy8jte",
 
 "n84":"悦跑圈",
-"i84":"开发者：广州悦跑信息科技有限公司
-悦跑圈手表版
-
+"i84":"悦跑圈手表版
+开发者：广州悦跑信息科技有限公司
 大小：11.1MB",
 "a84":"https://hankmi.lanzouw.com/iZ0ho0iy8k7i",
 
 "n85":"有道翻译官",
-"i85":"开发者：网易有道信息技术（北京）有限公司
-使用语音翻译多国语言
-
+"i85":"使用语音翻译多国语言
+开发者：网易有道信息技术（北京）有限公司
 大小：3.4MB",
 "a85":"https://hankmi.lanzouw.com/iFXoU0iy8kub",
 
 "n86":"Keep",
-"i86":"开发者：北京卡路里科技有限公司
-自律给我自由
-
+"i86":"自律给我自由
+开发者：北京卡路里科技有限公司
 大小：13.7MB",
 "a86":"https://hankmi.lanzouw.com/iYKue0iy8lda",
 
 "n87":"子午线4.0",
 "i87":"小米手表表盘
-
 大小：7.7MB",
 "a87":"https://hankmi.lanzouw.com/iibXU0iy8m1e",
 
 "n88":"微博",
-"i88":"开发者：微梦创科网络技术（中国）有限公司
-手表版
-
+"i88":"手表版
+开发者：微梦创科网络技术（中国）有限公司
 大小：1.8MB",
 "a88":"https://hankmi.lanzouw.com/iRj3W0iy8m6j",
 
 "n89":"钱迹",
 "i89":"简洁纯粹记账的App
-
 大小：6.4MB",
 "a89":"https://hankmi.lanzouw.com/iUA7O0iy8mmf",
 
 "n90":"微信儿童版（1.6.2）",
-"i90":"暂无信息
-
+"i90":"微信儿童手表版1.6.2版本
+开发者：Wechat
 大小：31.6MB",
 "a90":"https://hankmi.lanzouw.com/izSXw0iy9o6h",
 
 "n91":"2048（手机版）",
 "i91":"经典的2048游戏
-
 ⚠️安装包由 wwbu 提供并更新",
 "a91":"https://wwbu.lanzoue.com/ioTjf0iy99sj&pwd=etwp&red=1",
 
 "n92":"别踩白块儿（手机版）",
 "i92":"十分考验手速和心态的游戏
-
 ⚠️安装包由 wwbu 提供并更新",
 "a92":"https://wwbu.lanzoue.com/iFSM70iy9a4b&pwd=dofb&red=1",
 
 "n93":"Birdie（手机版）",
 "i93":"只需点击屏幕，即刻开始畅玩
-
 ⚠️安装包由 wwbu 提供并更新",
 "a93":"https://wwbu.lanzoue.com/i8bN90iy99wd&pwd=cf85&red=1",
 
 "n94":"夜间屏幕",
 "i94":"有效解决夜晚在被窝里瞎眼的问题
-
 ⚠️安装包由 wwbu 提供并更新",
 "a94":"https://wwbu.lanzoue.com/iISYR0iy9b8b&pwd=i6uz&red=1",
 
@@ -628,75 +542,64 @@ TicWatch上提取的QQ音乐，内置语音助手，圆形屏幕适配
 "a95":"",
 
 "n96":"搜狗地图",
-"i96":"开发者：北京搜狗科技发展有限公司
-WearOS官方默认地图
-
+"i96":"WearOS官方默认地图
+开发者：北京搜狗科技发展有限公司
 大小：26.4MB",
 "a96":"https://hankmi.lanzouw.com/isqQd0izq6ri",
 
 "n97":"MINI卸载（手机版）",
 "i97":"帮助部分特殊机型在手表上完成应用卸载
-
 大小：603KB",
 "a97":"https://hankmi.lanzouw.com/iDYgO0izq6ub",
 
 "n98":"讯飞输入法",
-"i98":"开发者：科大讯飞股份有限公司
-手表版
-
+"i98":"手表版
+开发者：科大讯飞股份有限公司
 大小：12MB",
 "a98":"https://hankmi.lanzouw.com/iJQl90izq74b",
 
 "n99":"西窗烛",
-"i99":"开发者：北京西窗有限公司
-发现诗词之美
-
+"i99":"发现诗词之美
+开发者：北京西窗有限公司
 大小：5.6MB",
 "a99":"https://hankmi.lanzouw.com/i7bR40izq77e",
 
 "n100":"心率图",
 "i100":"仅限WearOS系统使用
-
 大小：491KB",
 "a100":"https://hankmi.lanzouw.com/iIj9p0izq7wj",
 
 "n101":"酷狗概念版",
-"i101":"开发者：广州酷狗计算机科技有限公司
-啥都不多，就是歌多
-
+"i101":"啥都不多，就是歌多
+开发者：广州酷狗计算机科技有限公司
 大小：10.8MB",
 "a101":"https://hankmi.lanzouw.com/irjyj0izq89c",
 
 "n102":"微信 (WearOS版)",
-"i102":"开发者：Wechat
-非独立使用版本，仅支持配对安卓手机的WearOS手表
-
+"i102":"非独立使用版本，仅支持配对安卓手机的WearOS手表
+开发者：Wechat
 大小：2.9MB",
 "a102":"https://hankmi.lanzouw.com/iMwzK0izq8kd",
 
 "n103":"抬腕哔哩 1.5",
-"i103":"开发者：HankMi
-轻松订阅HankMi的新视频，不再错过精彩内容
-
+"i103":"轻松订阅HankMi的新视频，不再错过精彩内容
+开发者：HankMi
 大小：482KB",
 "a103":"https://hankmi.lanzouw.com/iztqr0j6z1uh",
 
 "n104":"艾凡息屏",
 "i104":"一款适用于OPPO Watch一代及二代的Aod息屏应用
-
 大小：5MB",
 "a104":"https://hankmi.lanzouw.com/ip4gf0jd0g0j",
 
 "n105":"图卡包",
 "i105":"用于管理你的二维码卡、票、劵
-
 大小：11.1MB",
 "a105":"https://hankmi.lanzouw.com/iVTrV0jd0p0d",
 
 "n106":"腕上文件管理器",
-"i106":"开发者：MCQSJ
-专为您的智能手表设计的强大文件管理工具，为您解决文件管理，文件预览，文件传输的难题。
-
+"i106":"专为您的智能手表设计的强大文件管理工具，为您解决文件管理，文件预览，文件传输的难题。
+开发者：MCQSJ
 大小：9.2MB",
 "a106":"https://hankmi.lanzouw.com/iIdwt0jd0uqj",
 
@@ -707,131 +610,114 @@ WearOS官方默认地图
 
 "n108":"AA小说下载阅读器",
 "i108":"集流行网络小说排行榜、搜索、更新、离线阅读为一体的小说阅读软件
-
 大小：4MB",
 "a108":"https://hankmi.lanzouw.com/itiAG0jd14ng",
 
 "n109":"狂野飙车9 极速版",
-"i109":"开发者：Gameloft
+"i109":"
 一款竞速类游戏
-
+开发者：Gameloft
 大小：53.8MB",
 "a109":"https://hankmi.lanzouw.com/iml470jh849i",
 
 "n110":"腕上拟声",
 "i110":"暂无信息
-
 大小：7MB",
 "a110":"https://hankmi.lanzouw.com/iSH9B0jkvtza",
 
 "n111":"APK Kit",
 "i111":"一款好用的APK管理器
-
 大小：5.3MB",
 "a111":"https://hankmi.lanzouw.com/iosIb0jkvtsd",
 
 "n112":"欧路词典",
-"i112":"开发者：上海倩言网络科技有限公司
+"i112":"
 安卓手表上好用的词典软件
-
+开发者：上海倩言网络科技有限公司
 大小：18.6MB",
 "a112":"https://hankmi.lanzouw.com/iGr7T0jkvtpa",
 
 "n113":"修改dpi",
 "i113":"手表上修改dpi
-
 大小：3.3MB",
 "a113":"https://hankmi.lanzouw.com/iPfn30jkvt1g",
 
 "n114":"Memory Cleaner",
 "i114":"好用的内存清理器
-
 大小：247KB",
 "a114":"https://hankmi.lanzouw.com/i1ozE0jkvswb",
 
 "n115":"抬腕听歌简洁版",
-"i115":"开发者：HankMi
-不发热，不卡顿，低占用
-
+"i115":"不发热，不卡顿，低占用
+开发者：HankMi
 大小：400KB",
 "a115":"https://hankmi.lanzouw.com/iTYSE0kir6ah",
 
 "n116":"bilimiao",
-"i116":"开发者：酷安@_10喵喵
-精简好用的第三方bilibili客户端，可免改dpi直接食用！
-
+"i116":"精简好用的第三方bilibili客户端，可免改dpi直接食用！
+开发者：酷安@_10喵喵
 大小：18MB",
 "a116":"https://hankmi.lanzouw.com/itjrx0jrnijc",
 
 "n117":"抖音大屏版",
-"i117":"开发者：字节跳动
-无需更改dpi使用的精简抖音
-
+"i117":"无需更改dpi使用的精简抖音
+开发者：字节跳动
 大小：18.3MB",
 "a117":"https://hankmi.lanzouw.com/iGand0jrni2f",
 
 "n118":"腕查快递",
-"i118":"开发者：www.nosoft.ml 锘软|NoSoft
-在手表上即可查询多家快递公司的快递  不需要手机，仅需手表
-
+"i118":"在手表上即可查询多家快递公司的快递  不需要手机，仅需手表
+开发者：www.nosoft.ml 锘软|NoSoft
 大小：630KB",
 "a118":"https://hankmi.lanzouw.com/icE0G0jrnhgd",
 
 "n119":"Wear只因盒",
-"i119":"开发者：老树皮
-一个好用的ikun工具箱~
-
+"i119":"一个好用的ikun工具箱~
+开发者：老树皮
 大小：12.9MB",
 "a119":"https://hankmi.lanzouw.com/i1Inm0jrnhcj",
 
 "n120":"Duck快递",
-"i120":"开发者：YaYa
-一个查询快递的手表软件
-
+"i120":"一个查询快递的手表软件
+开发者：YaYa
 大小：1.2MB",
 "a120":"https://hankmi.lanzouw.com/izvlQ0ju7sxi",
 
 "n121":"腕只因盒",
-"i121":"开发者：FANGYU宇
-腕只因盒是一款Ikun必备的软件。仅需轻轻点击，即可发出坤叫，欢迎广大Ikun下载体验哦～
-
+"i121":"腕只因盒是一款Ikun必备的软件。仅需轻轻点击，即可发出坤叫，欢迎广大Ikun下载体验哦～
+开发者：FANGYU宇
 大小：4.2MB",
 "a121":"https://hankmi.lanzouw.com/iPBwJ0ju7suf",
 
 "n122":"Chrome",
-"i122":"开发者：Google
-简洁，好用的Chrome浏览器，无需修改dpi，可直接食用
-
+"i122":"简洁，好用的Chrome浏览器，无需修改dpi，可直接食用
+开发者：Google
 大小：69MB",
 "a122":"https://hankmi.lanzouw.com/iL4Rf0k2yx2h",
 
 "n123":"微信 (手机版)",
-"i123":"开发者：腾讯科技（深圳）有限公司
-占用较小,简洁好用的官方微信 (play版) ，界面不受dpi影响，有小bug，可放心食用，小程序需导入obb文件
-
+"i123":"占用较小,简洁好用的官方微信 (play版) ，界面不受dpi影响，有小bug，可放心食用，小程序需导入obb文件
+开发者：腾讯科技（深圳）有限公司
 ⚠️安装包由 423down.com 提供并更新",
 "a123":"https://423down.lanzouo.com/iWz9pp2t8la",
 
 "n124":"只因工具箱",
-"i124":"开发者：小方块
-一款好用、全能的坤坤工具箱~
-
+"i124":"一款好用、全能的坤坤工具箱~
+开发者：小方块
 大小：6.4MB
 ⚠️应用未提供隐私政策",
 "a124":"https://hankmi.lanzouw.com/iwnPo0kisq8b",
 
 "n125":"Gesture",
 "i125":"一款解决手表屏幕显示不全的软件
-
 大小：174KB
 ⚠️应用未提供隐私政策
 ⚠️机器检测报告此应用可能不安全，请谨慎下载",
 
 "a125":"https://hankmi.lanzouw.com/iabnj0ky1ulc",
 "n126":"快手手表版",
-"i126":"开发者：北京快手科技有限公司
-该应用为国际版旧版，在手表上十分流畅（测试机xtcz5pro）
-
+"i126":"该应用为国际版旧版，在手表上十分流畅（测试机xtcz5pro）
+开发者：北京快手科技有限公司
 大小：10.4MB
 ⚠️应用未提供隐私政策",
 "a126":"https://hankmi.lanzouw.com/iuxAG0l0wjcf",
@@ -839,131 +725,110 @@ WearOS官方默认地图
 "n127":"小雅一言",
 "i127":"开发者：YaYa
 可以在手表上方便的查看每日一言
-
 大小：1.6MB",
 "a127":"https://hankmi.lanzouw.com/iveMm0l0wizc",
 
 "n128":"喝水提醒",
 "i128":"让手表提醒你喝水
-
 大小：2MB",
 "a128":"https://hankmi.lanzouw.com/iXY6s0l0wipc",
 
 "n129":"单位转换",
 "i129":"手表上的单位转换计算器
-
 大小：2.1MB",
 "a129":"https://hankmi.lanzouw.com/iGRyG0l0wili",
 
 "n130":"Gboard键盘",
-"i130":"开发者：Google
-由谷歌开发的一款新的手表26键输入法，支持中文输入
-
+"i130":"由谷歌开发的一款新的手表26键输入法，支持中文输入
+开发者：Google
 大小：20.1MB",
 "a130":"https://hankmi.lanzouw.com/i8eSm0l0wiif",
 
 "n131":"WatchMarkerPro",
 "i131":"WearOS第三方表盘工具和商店
-
 大小：11.8MB",
 "a131":"https://hankmi.lanzouw.com/is7Cd0l0yf4f",
 
 "n132":"OPPO彩色数字表盘",
 "i132":"OPPO表盘
-
 大小：781KB",
 "a132":"https://hankmi.lanzouw.com/iuFAZ0l0yeoj",
 
 "n133":"COT表盘",
 "i133":"WearOS第三方表盘商店
-
 大小：18.1MB",
 "a133":"https://hankmi.lanzouw.com/i8Dk00l0yeni",
 
 "n134":"AW-大数字",
 "i134":"小米手表表盘
-
 大小：1.7MB",
 "a134":"https://hankmi.lanzouw.com/iub350l0yelg",
 
 "n135":"AW-米奇",
 "i135":"小米手表表盘
-
 大小：5.5MB",
 "a135":"https://hankmi.lanzouw.com/i4R5n0l0yekf",
 
 "n136":"纸飞机战争PaperCraft",
 "i136":"一款WearOS设备适用的精品小游戏，圆形手表也能用
-
 大小：14.6MB",
 "a136":"https://hankmi.lanzouw.com/iz4rT0l0yehc",
 
 "n137":"植物大战僵尸表盘",
 "i137":"OPPO手表表盘
-
 大小：1.1MB",
 "a137":"https://hankmi.lanzouw.com/iM8W00l0yech",
 
 "n138":"野兽先辈表盘",
 "i138":"WearOS表盘
-
 大小：5.6MB",
 "a138":"https://hankmi.lanzouw.com/iJiOc0l0yebg",
 
 "n139":"图文表盘",
 "i139":"小米手表表盘
-
 大小：5.1MB",
 "a139":"https://hankmi.lanzouw.com/iKOoa0l0ye7c",
 
 "n140":"双色数字表盘",
 "i140":"小米手表表盘
-
 大小：4.4MB",
 "a140":"https://hankmi.lanzouw.com/idelw0l0ye6b",
 
 "n141":"WearMail",
 "i141":"用手表收发邮件
-
 大小：6.1MB",
 "a141":"https://hankmi.lanzouw.com/iAaJK0l0ye4j",
 
 "n142":"卡西欧飞天表盘",
 "i142":"小米手表表盘
-
 大小：2.7MB",
 "a142":"https://hankmi.lanzouw.com/is1CM0l0ye3i",
 
 "n143":"代码表盘",
 "i143":"小米手表表盘
-
 大小：4.2MB",
 "a143":"https://hankmi.lanzouw.com/ipvLc0l0ydyd",
 
 "n144":"百问千识",
-"i144":"开发者：JackuXL
-手表浏览器
-
+"i144":"手表浏览器
+开发者：JackuXL
 大小：6.2MB",
 "a144":"https://hankmi.lanzouw.com/i1znl0l0ydxc",
 
 "n145":"相册表盘Pro",
-"i145":"开发者：养只猫叫肥肥
-小米手表表盘，比系统相册表盘更高级
-
+"i145":"小米手表表盘，比系统相册表盘更高级
+开发者：养只猫叫肥肥
 大小：31.6MB",
 "a145":"https://hankmi.lanzouw.com/ioqAi0l0ydva",
 
 "n146":"时间浪费器",
-"i146":"开发者：HankMi
-实在是太无聊了，就来试试这款工具吧，轻松浪费时间。
-
+"i146":"实在是太无聊了，就来试试这款工具吧，轻松浪费时间。
+开发者：HankMi
 大小：6MB",
 "a146":"https://hankmi.lanzouw.com/ioLIZ0l3naib",
 
 "n147":"抖音精简版",
-"i147":"开发者：义玖陌尘
-抖音APP精简版是一款在全球范围内都非常受欢迎的短视频APP。这款抖音短视频精简版是官方的开发者推出的，可以说是抖音官方的精简版了吧，主要针对的是安卓配置比较低的用户。这款精简版提供的是更加稳定的短视频系统。抖音作为最受欢迎的短视频分享平台，在各个年龄阶层的人群中早已深入。正因为这样，软件加入的功能也越来越多，因此安装包的体积也是越来越多大，但是很多都功能都是平常比较少用的。对于配置比较低的用户非常的不友好。这款抖音精简版安装包只有5M大小，而且启动迅速无广告，还可以完美替代原版抖音哦。
-
+"i147":"抖音APP精简版是一款在全球范围内都非常受欢迎的短视频APP。这款抖音短视频精简版是官方的开发者推出的，可以说是抖音官方的精简版了吧，主要针对的是安卓配置比较低的用户。这款精简版提供的是更加稳定的短视频系统。抖音作为最受欢迎的短视频分享平台，在各个年龄阶层的人群中早已深入。正因为这样，软件加入的功能也越来越多，因此安装包的体积也是越来越多大，但是很多都功能都是平常比较少用的。对于配置比较低的用户非常的不友好。这款抖音精简版安装包只有5M大小，而且启动迅速无广告，还可以完美替代原版抖音哦。
+开发者：义玖陌尘
 ⚠️安装包由 xp811.com 提供并更新",
 "a147":"http://mxz.xp811.com:88/apk/douyinjjb.apk"}
