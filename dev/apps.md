@@ -4,6 +4,13 @@
   
 ***
   
-应用上架前，请先阅读《抬腕应用商店手表APP审核规范》，轻点 `下一步` 以继续  
+应用上架前，请先阅读《抬腕应用商店手表APP审核规范》，轻点 `去阅读` 跳转文档  
   
-[下一步 →](https://www.hankmi.com/support/appstoredistribute)
+[去阅读 →](https://www.hankmi.com/support/appstoredistribute)
+
+***
+
+如需提交应用，请：  
+(1)关注`HankMi`微信订阅号  
+(2)点击底栏`开放平台`  
+(3)填写应用上架信息
