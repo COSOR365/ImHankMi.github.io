@@ -4,6 +4,12 @@
 ***
 ### Support支持
 
+* 报告问题-抬腕应用商店 【[查看](https://www.hankmi.com/support/report_appstore)】  
+`2023/01/20`  
+
+* 抬腕应用商店下载服务检测结果 【[查看](https://www.hankmi.com/support/appstore_network)】  
+`2023/01/20`  
+
 * 抬腕隐私政策 【[查看](https://www.hankmi.com/support/privacy)】  
 `2023/01/10`  
 
