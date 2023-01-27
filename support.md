@@ -5,6 +5,9 @@
   
 ### Support支持
 
+* 终止对抬腕听歌（抬腕4.x内核版）的支持 【[查看](https://www.hankmi.com/support/news_2301280030.md)】  
+`2023/01/28`  
+
 * 报告问题-抬腕应用商店 【[查看](https://www.hankmi.com/support/report_appstore)】  
 `2023/01/20`  
 
